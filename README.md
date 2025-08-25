@@ -25,3 +25,5 @@ Data Analysis & Storytelling
 A clear, engaging, and data-driven representation of India’s 2024 General Election results that enables users to explore trends, compare parties, and understand voting patterns effectively.
 
 ## 📊Dashboard
+
+https://github.com/user-attachments/assets/bb304b87-7313-4a08-9c20-d55bd3e19dda
